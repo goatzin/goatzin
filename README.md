@@ -1,6 +1,6 @@
 ### Hello O_o
 
-My name is Lucas and I'm a backend developer and programmer!
+My name is Lucas and I'm a backend developer and programmer! 
 
 ***
 
@@ -10,9 +10,12 @@ My name is Lucas and I'm a backend developer and programmer!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goatzin&layout=compact&langs_count=7&theme=synthwave"/>
   </a>
 </div>
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
 ***
 
 #### How to talk to me:
 * Email: goatproducer79@gmail.com
+
+***
+
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
