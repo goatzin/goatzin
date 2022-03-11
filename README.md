@@ -9,6 +9,5 @@ Hi, my name is Lucas and I'm a developer and programmer!
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
 ##
-#### how to find me:
-* Email: goatprocuer79@gmail.com
-* Instagram: https://www.instagram.com/goatzinn/
+#### how to talk to me:
+* Email: goatproducer79@gmail.com
