@@ -1,6 +1,6 @@
 ### Hello O_o
 
-My name is Lucas and I'm a backend developer and programmer! 
+My name is Lucas and I'm a developer and programmer! 
 
 ***
 
