@@ -15,7 +15,3 @@ My name is Lucas and I'm a developer and programmer!
 
 #### How to talk to me:
 * Email: goatproducer79@gmail.com
-
-***
-
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
